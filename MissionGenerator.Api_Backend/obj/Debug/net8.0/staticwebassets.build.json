@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lKWciQdvhTh/68+2AaXhRy9x1VL9ok9T0htWzG637AI=",
+  "Source": "MissionGenerator.Api",
+  "BasePath": "_content/MissionGenerator.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
