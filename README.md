@@ -31,11 +31,14 @@ Voici une démonstration rapide du fonctionnement de l'application, de la saisie
   
 
 
-### Captures d'écran
+![image](https://github.com/user-attachments/assets/60162a60-2c59-43fc-9b86-b3d9dcb1b149)
 
-Interface de Saisie Initiale
+![image](https://github.com/user-attachments/assets/fb4811bc-8874-47d1-9797-9b04dbe4f8ea)
 
-Formulaire Généré et Rempli
+![image](https://github.com/user-attachments/assets/b5e4ac1d-af0e-4708-b10d-a673e48a07ea)
+
+![image](https://github.com/user-attachments/assets/df0fad61-f441-4625-8aa4-14babd1d1ff4)
+
 
 ----------
 
